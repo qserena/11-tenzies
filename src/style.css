@@ -4,4 +4,20 @@
 
 body {
 	margin: 0;
+	background: #0b2434;
+	padding: 40px;
+}
+
+#root {
+	display: flex;
+	justify-content: center;
+}
+
+main {
+	width: 360px;
+	max-width: 600px;
+	height: 360px;
+	margin: 70 auto;
+	border-radius: 10px;
+	background: #f5f5f5;
 }
