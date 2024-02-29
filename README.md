@@ -1,4 +1,4 @@
-# Tenzies - a game with dices
+# Tenzies - a game with dice
 
 ## Description
 Click the **Roll** button to get new numbers. Click the numbers you want to keep.
