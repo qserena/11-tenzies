@@ -21,3 +21,10 @@ Tenzies is deployed here:
 [https://toms-tenzies.netlify.app](https://toms-tenzies.netlify.app)
 
 Please feel free to visit and try the game!
+
+## What I learned
+### Conditional styling
+
+### Conditionall rendering
+
+### Keep track of certain condition
