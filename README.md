@@ -1,5 +1,8 @@
 # Tenzies - a game with dice
 
+## Background
+This is one of the challenges in Scrimba's <a href="https://v2.scrimba.com/react-challenges-c02n">React Challenges</a> 
+
 ## Description
 Click the **Roll** button to get new numbers. Click the numbers you want to keep.
 
