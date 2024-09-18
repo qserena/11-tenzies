@@ -12,7 +12,7 @@ When you accomplish this a great firework will appear on your screen!
 
 <br/>
 <img src="./tenzies.png" alt="Screenshot of Tenzies game." width="400px"/>
-*The Tenzies game user interface.*
+<em>The Tenzies game user interface.</em>
 
 <br/>
 <br/>
